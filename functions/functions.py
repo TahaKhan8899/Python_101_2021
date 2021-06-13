@@ -32,17 +32,18 @@ print(answer1)
 print(answer2)
 print(answer3)
 
+# try this #1
 def areaRect(l, w):
     return l * w
 
 
-# try this #1:
+# try this #2:
 def printNums():
     for i in range(-10, 0):
         print(i)
 
 
-# Try this #2:
+# Try this #3:
 def userSum():
     userNum = int(input("enter a number: "))
     sum = 0
